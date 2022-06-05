@@ -14,4 +14,4 @@ To start generate APK, follow this steps:
 6. Click **Finish** to build the **APK** file
 
 ## APK
-Generated apk can be directly found inside this repository **fitHappyTest.apk** or in the **android\app\release**
+Generated apk can be directly found inside this repository or in the **android\app\release**
