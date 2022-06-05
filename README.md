@@ -1,3 +1,7 @@
+## Sample
+[!home](/__assets__/home.jpg)
+[!details](/__assets__/details.jpg)
+
 ## How To Generate APK
 To start generate APK, follow this steps:
 1. Open **android** project using Android Studio
